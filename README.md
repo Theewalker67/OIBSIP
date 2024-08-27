@@ -1,1 +1,1 @@
-# OIBSIP
+This repository contains an Android application that combines a To-Do List and a Quiz App, built using Java and modern Android development practices. The app is designed to help users manage their daily tasks efficiently while also offering a fun way to test their knowledge through quizzes.
